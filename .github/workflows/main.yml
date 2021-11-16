@@ -8,5 +8,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: the-iron-bank-of-braavos/hello-world-action@v1
+      - uses: the-iron-bank-of-braavos/hello-world-action@e0b02d14cf0211d5f9f2ddda6b57ad3361c3bf1a
 
